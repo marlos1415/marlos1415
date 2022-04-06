@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marlos1415
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in AI, AutoML ...
+- 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on Python Programming
 - 📫 How to reach me at email? marlos1415@gmail.com 
 
